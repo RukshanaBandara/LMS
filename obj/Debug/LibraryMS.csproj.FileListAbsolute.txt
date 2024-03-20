@@ -1,0 +1,321 @@
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\bin\Debug\LibraryMS.pdb
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csprojAssemblyReference.cache
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Form1.resources
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Properties.Resources.resources
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.GenerateResource.cache
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.CoreCompileInputs.cache
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Dashboard1.resources
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Open.resources
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addBook.resources
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addStudent.resources
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addLecturer.resources
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewBooks.resources
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewUser.resources
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewLecturer.resources
+C:\Users\Rivindu Munasinghe\source\repos\LibraryMS\LibraryMS\obj\Debug\LibraryMS.issueBook.resources
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\bin\Debug\LibraryMS.pdb
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.AssemblyReference.cache
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.SuggestedBindingRedirects.cache
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addLecturer.resources
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addStudent.resources
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Dashboard1.resources
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Form1.resources
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addBook.resources
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.issueBook.resources
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Open.resources
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Properties.Resources.resources
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewBooks.resources
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewLecturer.resources
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewUser.resources
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.GenerateResource.cache
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.CoreCompileInputs.cache
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+E:\System LMS\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+C:\Users\USER\3D Objects\Practice no2\LibraryMS\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+C:\Users\USER\3D Objects\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+C:\Users\USER\3D Objects\Practice no2\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\bin\Debug\LibraryMS.pdb
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csprojResolveAssemblyReference.cache
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addLecturer.resources
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addStudent.resources
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Dashboard1.resources
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Form1.resources
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addBook.resources
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.issueBook.resources
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Open.resources
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Properties.Resources.resources
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewBooks.resources
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewLecturer.resources
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewUser.resources
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.GenerateResource.Cache
+E:\System LMS\Practice no1\LibraryMS\LibraryMS\LibraryMS\obj\Debug\LibraryMS.ReturnBook.resources
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\bin\Debug\LibraryMS.pdb
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addLecturer.resources
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addStudent.resources
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Dashboard1.resources
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Form1.resources
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addBook.resources
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\obj\Debug\LibraryMS.issueBook.resources
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Open.resources
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Properties.Resources.resources
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\obj\Debug\LibraryMS.ReturnBook.resources
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewBooks.resources
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewLecturer.resources
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewUser.resources
+C:\Users\USER\Desktop\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.GenerateResource.Cache
+E:\completed system\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+E:\completed system\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+E:\completed system\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+E:\completed system\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe
+E:\completed system\LibraryMS\LibraryMS\bin\Debug\LibraryMS.pdb
+E:\completed system\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csprojResolveAssemblyReference.cache
+E:\completed system\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addLecturer.resources
+E:\completed system\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addStudent.resources
+E:\completed system\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Dashboard1.resources
+E:\completed system\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Form1.resources
+E:\completed system\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addBook.resources
+E:\completed system\LibraryMS\LibraryMS\obj\Debug\LibraryMS.issueBook.resources
+E:\completed system\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Open.resources
+E:\completed system\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Properties.Resources.resources
+E:\completed system\LibraryMS\LibraryMS\obj\Debug\LibraryMS.ReturnBook.resources
+E:\completed system\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewBooks.resources
+E:\completed system\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewLecturer.resources
+E:\completed system\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewUser.resources
+E:\completed system\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.GenerateResource.Cache
+E:\completed system copy\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+E:\completed system copy\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+E:\completed system copy\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+E:\completed system copy\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe
+E:\completed system copy\LibraryMS\LibraryMS\bin\Debug\LibraryMS.pdb
+E:\completed system copy\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csprojResolveAssemblyReference.cache
+E:\completed system copy\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addLecturer.resources
+E:\completed system copy\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addStudent.resources
+E:\completed system copy\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Dashboard1.resources
+E:\completed system copy\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Form1.resources
+E:\completed system copy\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addBook.resources
+E:\completed system copy\LibraryMS\LibraryMS\obj\Debug\LibraryMS.issueBook.resources
+E:\completed system copy\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Open.resources
+E:\completed system copy\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Properties.Resources.resources
+E:\completed system copy\LibraryMS\LibraryMS\obj\Debug\LibraryMS.ReturnBook.resources
+E:\completed system copy\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewBooks.resources
+E:\completed system copy\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewLecturer.resources
+E:\completed system copy\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewUser.resources
+E:\completed system copy\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.GenerateResource.Cache
+E:\completed system copy\LibraryMS\LibraryMS\obj\Debug\LibraryMS.CalculateForm.resources
+E:\completed system copy Backup1\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+E:\completed system copy Backup1\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe
+E:\completed system copy Backup1\LibraryMS\LibraryMS\bin\Debug\LibraryMS.pdb
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csprojResolveAssemblyReference.cache
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addLecturer.resources
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addStudent.resources
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.CalculateForm.resources
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Dashboard1.resources
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Form1.resources
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addBook.resources
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.issueBook.resources
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.IssueBooks.resources
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Open.resources
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Properties.Resources.resources
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.ReturnBook.resources
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewBooks.resources
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewLecturer.resources
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewUser.resources
+E:\completed system copy Backup1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.GenerateResource.Cache
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\bin\Debug\LibraryMS.pdb
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csprojResolveAssemblyReference.cache
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addLecturer.resources
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addStudent.resources
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.CalculateForm.resources
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Dashboard1.resources
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Form1.resources
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addBook.resources
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.issueBook.resources
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.IssueBooks.resources
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Open.resources
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Properties.Resources.resources
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.ReturnBook.resources
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewBooks.resources
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewLecturer.resources
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewUser.resources
+E:\Completed LMS IT0043(RAD Ass4)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.GenerateResource.Cache
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\bin\Debug\LibraryMS.pdb
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csprojResolveAssemblyReference.cache
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addLecturer.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addStudent.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.CalculateForm.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Dashboard1.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Form1.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addBook.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.issueBook.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.IssueBooks.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Open.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Properties.Resources.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.ReturnBook.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewBooks.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewLecturer.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewUser.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.GenerateResource.Cache
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.SplashForm.resources
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\bin\Debug\LibraryMS.pdb
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csprojResolveAssemblyReference.cache
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addLecturer.resources
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addStudent.resources
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.CalculateForm.resources
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Dashboard1.resources
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Form1.resources
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addBook.resources
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.issueBook.resources
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.IssueBooks.resources
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Open.resources
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Properties.Resources.resources
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.ReturnBook.resources
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.SplashForm.resources
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewBooks.resources
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewLecturer.resources
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewUser.resources
+E:\Completed LMS IT0043(RAD Ass4)New1\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.GenerateResource.Cache
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\bin\Debug\LibraryMS.pdb
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csprojResolveAssemblyReference.cache
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addLecturer.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addStudent.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.CalculateForm.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Dashboard1.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Form1.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addBook.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.issueBook.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.IssueBooks.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Open.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Properties.Resources.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.ReturnBook.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.SplashForm.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewBooks.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewLecturer.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewUser.resources
+D:\KDU Informations\Completed LMS IT0043(RAD Ass4)New11\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.GenerateResource.Cache
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\bin\Debug\LibraryMS.pdb
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csprojResolveAssemblyReference.cache
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addLecturer.resources
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addStudent.resources
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.CalculateForm.resources
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Dashboard1.resources
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Form1.resources
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addBook.resources
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.issueBook.resources
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.IssueBooks.resources
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Open.resources
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Properties.Resources.resources
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.ReturnBook.resources
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.SplashForm.resources
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewBooks.resources
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewLecturer.resources
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewUser.resources
+D:\KDU Informations\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.GenerateResource.Cache
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\bin\Debug\LibraryMS.pdb
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csprojResolveAssemblyReference.cache
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addLecturer.resources
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addStudent.resources
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.CalculateForm.resources
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Dashboard1.resources
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Form1.resources
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addBook.resources
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.issueBook.resources
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.IssueBooks.resources
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Open.resources
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Properties.Resources.resources
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.ReturnBook.resources
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.SplashForm.resources
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewBooks.resources
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewLecturer.resources
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewUser.resources
+F:\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\bin\Debug\LibraryMS.pdb
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addLecturer.resources
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addStudent.resources
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.CalculateForm.resources
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Dashboard1.resources
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Form1.resources
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addBook.resources
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.issueBook.resources
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.IssueBooks.resources
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Open.resources
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Properties.Resources.resources
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.ReturnBook.resources
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.SplashForm.resources
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewBooks.resources
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewLecturer.resources
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewUser.resources
+C:\Users\USER\Desktop\RAD All Assignments(BDRGRW Bnadara........D.BIT.21.0043)\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+C:\Users\USER\Desktop\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+C:\Users\USER\Desktop\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe.config
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.exe
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.pdb
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\bin\Debug\LibraryMS.exe
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\bin\Debug\LibraryMS.pdb
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csprojResolveAssemblyReference.cache
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addLecturer.resources
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addStudent.resources
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.CalculateForm.resources
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Dashboard1.resources
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Form1.resources
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.addBook.resources
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.issueBook.resources
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.IssueBooks.resources
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Open.resources
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.Properties.Resources.resources
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.ReturnBook.resources
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.SplashForm.resources
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewBooks.resources
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewLecturer.resources
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.viewUser.resources
+E:\3rd sem Assignments\RAD VIVA Presentation,Completed System,All final Assignments\CORRECT LMS D.BIT.21.0043.........(RAD)\LibraryMS\LibraryMS\obj\Debug\LibraryMS.csproj.GenerateResource.Cache
